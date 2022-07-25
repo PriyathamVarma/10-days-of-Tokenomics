@@ -1,4 +1,4 @@
-![Hero Image](https://github.com/Web3-courses/10-days-of-Tokenomics/blob/main/Ethereum%20-%20Python.png)
+![Hero Image](https://github.com/PriyathamVarma/10-days-of-Tokenomics/blob/main/Ethereum%20-%20Python.png)
 # 10-days-of-Tokenomics
 
 In this course you will learn tokenomics and how to use tokens(Fungible and Non-fungible) for funding your web3 business.
